@@ -502,3 +502,4 @@ C:\Users\mas\Desktop\ASP.NET\mvc_training\s6-ProductApp\obj\Debug\net8.0\refint\
 C:\Users\mas\Desktop\ASP.NET\mvc_training\s6-ProductApp\obj\Debug\net8.0\ProductApp.pdb
 C:\Users\mas\Desktop\ASP.NET\mvc_training\s6-ProductApp\obj\Debug\net8.0\ProductApp.genruntimeconfig.cache
 C:\Users\mas\Desktop\ASP.NET\mvc_training\s6-ProductApp\obj\Debug\net8.0\ref\ProductApp.dll
+C:\Users\mas\Desktop\ASP.NET\mvc_training\s6-ProductApp\obj\Debug\net8.0\ProductApp.sourcelink.json

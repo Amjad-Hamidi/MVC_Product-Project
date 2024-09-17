@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mas\\Desktop\\ASP.NET\\mvc_training\\s6-ProductApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDAEE009-B8DB-4E18-B2FC-610AE1FC1336}|ProductApp.csproj|c:\\users\\mas\\desktop\\asp.net\\mvc_training\\s6-productapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDAEE009-B8DB-4E18-B2FC-610AE1FC1336}|ProductApp.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDAEE009-B8DB-4E18-B2FC-610AE1FC1336}|ProductApp.csproj|c:\\users\\mas\\desktop\\asp.net\\mvc_training\\s6-productapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EDAEE009-B8DB-4E18-B2FC-610AE1FC1336}|ProductApp.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDAEE009-B8DB-4E18-B2FC-610AE1FC1336}|ProductApp.csproj|c:\\users\\mas\\desktop\\asp.net\\mvc_training\\s6-productapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EDAEE009-B8DB-4E18-B2FC-610AE1FC1336}|ProductApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EDAEE009-B8DB-4E18-B2FC-610AE1FC1336}|ProductApp.csproj|c:\\users\\mas\\desktop\\asp.net\\mvc_training\\s6-productapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAEE009-B8DB-4E18-B2FC-610AE1FC1336}|ProductApp.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDAEE009-B8DB-4E18-B2FC-610AE1FC1336}|ProductApp.csproj|c:\\users\\mas\\desktop\\asp.net\\mvc_training\\s6-productapp\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EDAEE009-B8DB-4E18-B2FC-610AE1FC1336}|ProductApp.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EDAEE009-B8DB-4E18-B2FC-610AE1FC1336}|ProductApp.csproj|c:\\users\\mas\\desktop\\asp.net\\mvc_training\\s6-productapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDAEE009-B8DB-4E18-B2FC-610AE1FC1336}|ProductApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAEE009-B8DB-4E18-B2FC-610AE1FC1336}|ProductApp.csproj|c:\\users\\mas\\desktop\\asp.net\\mvc_training\\s6-productapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDAEE009-B8DB-4E18-B2FC-610AE1FC1336}|ProductApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDAEE009-B8DB-4E18-B2FC-610AE1FC1336}|ProductApp.csproj|c:\\users\\mas\\desktop\\asp.net\\mvc_training\\s6-productapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,6 +41,19 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mas\\Desktop\\ASP.NET\\mvc_training\\s6-ProductApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mas\\Desktop\\ASP.NET\\mvc_training\\s6-ProductApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T17:00:55.25Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
@@ -50,33 +63,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mas\\Desktop\\ASP.NET\\mvc_training\\s6-ProductApp\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
               "ToolTip": "C:\\Users\\mas\\Desktop\\ASP.NET\\mvc_training\\s6-ProductApp\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEUAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-09T01:13:19.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\mas\\Desktop\\ASP.NET\\mvc_training\\s6-ProductApp\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\mas\\Desktop\\ASP.NET\\mvc_training\\s6-ProductApp\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T01:05:12.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\mas\\Desktop\\ASP.NET\\mvc_training\\s6-ProductApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -84,21 +97,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T19:54:34.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\mas\\Desktop\\ASP.NET\\mvc_training\\s6-ProductApp\\Views\\Products\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\mas\\Desktop\\ASP.NET\\mvc_training\\s6-ProductApp\\Views\\Products\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA0AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T17:47:34.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T19:54:34.847Z"
             },
             {
               "$type": "Document",
@@ -110,8 +109,7 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T18:15:04.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T18:15:04.728Z"
             },
             {
               "$type": "Document",
@@ -123,8 +121,7 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T17:46:25.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T17:46:25.417Z"
             },
             {
               "$type": "Document",
@@ -136,8 +133,7 @@
               "RelativeToolTip": "Views\\Products\\Create.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T02:10:57.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T02:10:57.53Z"
             }
           ]
         }

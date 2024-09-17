@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bvmAqaBMnSRfu1lLoWsL+NZBfeMaM0WmAokZruFEBcA=",
+  "Hash": "vPx9wQS3SXtH2LZqP8OTyfFl7wUnxQsRUN7P5TjcTbg=",
   "Source": "ProductApp",
   "BasePath": "_content/ProductApp",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mas\\Desktop\\ASP.NET\\mvc_training\\s6-ProductApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProductApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\mas\\Desktop\\ASP.NET\\mvc_training\\s6-ProductApp\\wwwroot\\css\\ASP.NET MVC.png",
+      "SourceId": "ProductApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mas\\Desktop\\ASP.NET\\mvc_training\\s6-ProductApp\\wwwroot\\",
+      "BasePath": "_content/ProductApp",
+      "RelativePath": "css/ASP.NET MVC.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\ASP.NET MVC.png"
     },
     {
       "Identity": "C:\\Users\\mas\\Desktop\\ASP.NET\\mvc_training\\s6-ProductApp\\wwwroot\\css\\site.css",
