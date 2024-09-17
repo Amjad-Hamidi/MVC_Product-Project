@@ -2,7 +2,7 @@
 A product project built using ASP.NET MVC that performs CRUD (Create, Read, Update, Delete) operations on products.
 The project utilizes LINQ for querying data and Entity Framework (EF) tools for data access and management. 
 
-# Video Link :
+# Video :
 https://github.com/user-attachments/assets/e22676b1-10ef-4efd-b8de-d28f3a1d7e01
 
 # Image :
