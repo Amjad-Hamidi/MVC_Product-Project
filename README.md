@@ -3,8 +3,9 @@ A product project built using ASP.NET MVC that performs CRUD (Create, Read, Upda
 The project utilizes LINQ for querying data and Entity Framework (EF) tools for data access and management. 
 
 # Video Link :
-https://drive.google.com/file/d/1F2RY_uQOtxh0N8hY3MSwZshQoz0-ObKw/view?usp=sharing
+https://github.com/user-attachments/assets/e22676b1-10ef-4efd-b8de-d28f3a1d7e01
 
 # Image :
-![MVC-Output](https://github.com/user-attachments/assets/2f555588-40e3-48c5-ad26-38c7934216da)
+![MVC-Output](https://github.com/user-attachments/assets/b29d071f-ebd6-4a7f-b748-519e955d5f52)
+
 
