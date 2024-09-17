@@ -115,7 +115,7 @@ namespace ProductApp.Controllers
         public IActionResult changeProductPublish(int id)
         {
             var product= _context.Products.Find(id);
-            if (product.InStock && product.Qty!=0) { 
+            if (product.InStock) { 
                 product.InPublish = !product.InPublish;
             }
             else
@@ -129,15 +129,8 @@ namespace ProductApp.Controllers
         public IActionResult changeProductAvailability(int id)
         {
             var product = _context.Products.Find(id);
-            if(product.Qty != 0)
-            { 
-			    product.InStock = !product.InStock;
-            }
-            else
-            {
-                product.InStock = false;
-            }
-            if (!product.InStock)
+			product.InStock = !product.InStock;
+			if (!product.InStock)
 			{
 				product.InPublish = false;
 				product.Qty = 0;
